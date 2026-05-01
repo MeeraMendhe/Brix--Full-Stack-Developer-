@@ -6,14 +6,17 @@
   "author": "",
   "type": "commonjs",
   "scripts": {
-   "start":"parcel index.html",
-   "build":"parcel build index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.16.4"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.100.6",
+    "date-fns": "^4.1.0",
     "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "react-dom": "^19.2.5",
+    "tanstack": "^2.0.3"
   }
 }
