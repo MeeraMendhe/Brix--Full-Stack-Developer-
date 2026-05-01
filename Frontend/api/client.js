@@ -1,4 +1,5 @@
-const BASE = 'http://localhost:3001/api';
+// const BASE = 'http://localhost:3001/api';
+const BASE= 'https://brix-full-stack-developer-backend-vsf9.onrender.com/api'
 
 async function req(path, options = {}) {
   const res = await fetch(`${BASE}${path}`, {

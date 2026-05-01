@@ -20964,10 +20964,11 @@ function useMutation(options, queryClient) {
 }
 
 },{"react":"jMk1U","@tanstack/query-core":"hCIJP","./QueryClientProvider.js":"dA0Iw","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"hjiNq":[function(require,module,exports,__globalThis) {
+// const BASE = 'http://localhost:3001/api';
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "api", ()=>api);
-const BASE = 'http://localhost:3001/api';
+const BASE = 'https://brix-full-stack-developer-backend-vsf9.onrender.com/api';
 async function req(path, options = {}) {
     const res = await fetch(`${BASE}${path}`, {
         headers: {

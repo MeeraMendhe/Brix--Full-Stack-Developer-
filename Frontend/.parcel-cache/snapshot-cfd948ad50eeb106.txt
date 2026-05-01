@@ -1,4 +1,4 @@
-12346
+12350
 104C:\Users\Meera\Desktop\Brix\Frontend\node_modules\videojs-font\custom-icons\mdi-v4\file_download_off.svg134220801286167221 0
 57C:\Users\Meera\Desktop\Brix\Frontend\node_modules\globals134220785739664235 1
 79C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\tr\cdn.js.map134220809303071730 0
@@ -51,7 +51,7 @@
 91C:\Users\Meera\Desktop\Brix\Frontend\node_modules\mux.js\es\partial\audio-segment-stream.js134220801286847967 0
 93C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\fp\differenceInCalendarYears.d.cts134220809182334975 0
 76C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\fp\setMonth.d.cts134220809213029653 0
-41C:\Users\Meera\Desktop\Brix\Frontend\dist134220810592376624 1
+41C:\Users\Meera\Desktop\Brix\Frontend\dist134220861051358607 1
 94C:\Users\Meera\Desktop\Brix\Frontend\node_modules\@tanstack\query-core\build\modern\retryer.js134220808780855713 0
 89C:\Users\Meera\Desktop\Brix\Frontend\node_modules\video.js\dist\types\utils\time.d.ts.map134220801338960020 0
 77C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\formatRFC7231.d.ts134220809417480331 0
@@ -90,7 +90,7 @@
 88C:\Users\Meera\Desktop\Brix\Frontend\node_modules\video.js\src\css\components\_time.scss134220801342297560 0
 74C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\nl-BE.js134220809273869122 0
 100C:\Users\Meera\Desktop\Brix\Frontend\node_modules\caniuse-lite\data\features\css-text-orientation.js134220785767451714 0
-47C:\Users\Meera\Desktop\Brix\Frontend\index.html134220789183203126 0
+47C:\Users\Meera\Desktop\Brix\Frontend\index.html134220814685592611 0
 88C:\Users\Meera\Desktop\Brix\Frontend\node_modules\node-releases\data\processed\envs.json134220785734402118 0
 85C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\mt\_lib\localize.js134220809267859971 0
 79C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\ja\cdn.js.map134220809296394892 0
@@ -2600,6 +2600,7 @@
 92C:\Users\Meera\Desktop\Brix\Frontend\node_modules\@parcel\packager-js\src\ESMOutputFormat.js134220785745230138 0
 71C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\pl.js134220809274542819 0
 88C:\Users\Meera\Desktop\Brix\Frontend\node_modules\mpd-parser\test\playlist-merge.test.js134220801287918292 0
+62C:\Users\Meera\Desktop\Brix\Frontend\dist\Frontend.e02fbd41.js134220861051251343 0
 84C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\fp\addWeeksWithOptions.js134220809221712160 0
 75C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\fp\isMonday.d.ts134220809446783228 0
 82C:\Users\Meera\Desktop\Brix\Frontend\node_modules\picocolors\picocolors.browser.js134220785732907447 0
@@ -3197,6 +3198,7 @@
 83C:\Users\Meera\Desktop\Brix\Frontend\node_modules\caniuse-lite\data\features\ttf.js134220785792475236 0
 81C:\Users\Meera\Desktop\Brix\Frontend\node_modules\msgpackr\dist\index-no-eval.cjs134220785743838755 0
 94C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\parse\_lib\parsers\AMPMParser.d.cts134220809177679525 0
+66C:\Users\Meera\Desktop\Brix\Frontend\dist\Frontend.e02fbd41.js.map134220861051348604 0
 86C:\Users\Meera\Desktop\Brix\Frontend\node_modules\ordered-binary\assets\powers-dre.png134220785746978846 0
 80C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\lastDayOfISOWeek.d.ts134220809454715223 0
 93C:\Users\Meera\Desktop\Brix\Frontend\node_modules\electron-to-chromium\chromium-versions.json134220785745895121 0
@@ -6178,6 +6180,7 @@
 74C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\en-IE.js134220809245294733 0
 81C:\Users\Meera\Desktop\Brix\Frontend\node_modules\caniuse-lite\data\regions\PT.js134220785790366534 0
 89C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\vi\_lib\formatLong.d.ts134220809405169699 0
+67C:\Users\Meera\Desktop\Brix\Frontend\dist\Frontend.3a01df49.css.map134220861029336092 0
 95C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\uz-Cyrl\_lib\formatLong.d.cts134220809191921632 0
 101C:\Users\Meera\Desktop\Brix\Frontend\node_modules\@tanstack\react-query\build\modern\useQueries.d.cts134220808778009190 0
 71C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\en-IN134220809321335819 1
@@ -7850,7 +7853,7 @@
 94C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\fr\_lib\formatRelative.d.cts134220809192544567 0
 93C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\fr\_lib\formatRelative.d.ts134220809409849556 0
 90C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\ar-TN\_lib\formatLong.js134220809252603458 0
-52C:\Users\Meera\Desktop\Brix\Frontend\dist\index.html134220810590978453 0
+52C:\Users\Meera\Desktop\Brix\Frontend\dist\index.html134220861033443875 0
 86C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\fr\_lib\localize.cjs134220809158091670 0
 88C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\locale\fr\_lib\localize.d.cts134220809200971619 0
 81C:\Users\Meera\Desktop\Brix\Frontend\node_modules\date-fns\fp\subWithOptions.d.ts134220809508222615 0
@@ -12340,8 +12343,9 @@
 64C:\Users\Meera\Desktop\Brix\Frontend\node_modules\.bin\pkcs7.cmd134220801365607463 0
 65C:\Users\Meera\Desktop\Brix\Frontend\node_modules\.bin\semver.ps1134220785794294384 0
 77C:\Users\Meera\Desktop\Brix\Frontend\node_modules\.bin\update-browserslist-db134220785794324071 0
+63C:\Users\Meera\Desktop\Brix\Frontend\dist\Frontend.3a01df49.css134220861029035428 0
 66C:\Users\Meera\Desktop\Brix\Frontend\dist\Frontend.cb65f72e.js.map134220810592322971 0
 63C:\Users\Meera\Desktop\Brix\Frontend\components\AssignModal.jsx134220803461765405 0
 60C:\Users\Meera\Desktop\Brix\Frontend\components\JobsPage.jsx134220805119618575 0
 66C:\Users\Meera\Desktop\Brix\Frontend\components\TechnicianPage.jsx134220805296316613 0
-50C:\Users\Meera\Desktop\Brix\Frontend\api\client.js134220803730615280 0
+50C:\Users\Meera\Desktop\Brix\Frontend\api\client.js134220861058536712 0
