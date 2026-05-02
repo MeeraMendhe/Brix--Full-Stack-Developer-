@@ -72,11 +72,11 @@ brix-scheduling/
         ├── api/
         │   └── client.js  # fetch wrapper — all API calls live here
         ├── components/
-        │   ├── Dashboard.jsx          # Stats cards + technician workload overview
-        │   ├── QuotesPage.jsx         # Filter + list quotes, open assign modal
-        │   ├── JobsPage.jsx           # All jobs across all technicians
-        │   ├── TechnicianPage.jsx     # Personal schedule + complete button + notifications
-        │   └── NotificationsPage.jsx  # System-wide notification feed, mark read
+            ├── Dashboard.jsx          # Stats cards + technician workload overview
+            ├── QuotesPage.jsx         # Filter + list quotes, open assign modal
+            ├── JobsPage.jsx           # All jobs across all technicians
+            ├── TechnicianPage.jsx     # Personal schedule + complete button + notifications
+            ├── NotificationsPage.jsx  # System-wide notification feed, mark read
             └── AssignModal.jsx        # Pick technician · date · 2-hr time slot
 ```
 
@@ -101,7 +101,7 @@ cd brix-scheduling
 ```bash
 cd backend
 npm install
-node src/index.js
+npm run start
 ```
 
 ```
@@ -113,7 +113,7 @@ node src/index.js
 ```bash
 cd frontend
 npm install
-npm run dev
+npm run start
 ```
 
 ```
@@ -142,7 +142,7 @@ Open **http://localhost:1234** in your browser.
   "name": "brix-scheduling-frontend",
   "source": "index.html",
   "scripts": {
-    "dev": "parcel",
+    "start": "parcel",
     "build": "parcel build"
   },
   "dependencies": {
